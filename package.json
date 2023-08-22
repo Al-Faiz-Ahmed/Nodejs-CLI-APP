@@ -1,0 +1,18 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Node js Cli App"],
+  "author": "Muhammad Faiz Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/demo": "^0.2.8",
+    "chalk": "^5.3.0",
+    "cli-cursor": "^4.0.0"
+  }
+}
